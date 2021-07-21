@@ -14,8 +14,8 @@
 > :phone: 如果对沈阳的东软集团感兴趣，欢迎联系我内推。
 
 微信/QQ :253392172
-个人邮箱:253392172@neusoft.com
-办公邮箱:huo.hm@neusoft.com  （一般不回）
+
+办公邮箱:huo.hm@neusoft.com  （可以投简历、一般不回，可以先加微信咨询）
 
 联系加我入群，与沈阳的IT同行门进行交流！
 
@@ -25,7 +25,7 @@
 
 ![微信支付](./images/wechat_payment.png)
 ![阿里支付](./images/ali_payment.jpg)
-![微信赞助](./images/wechat_compliment.jpg)
+
 ----
 
 # TODO List
