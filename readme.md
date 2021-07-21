@@ -15,8 +15,6 @@
 
 微信/QQ :253392172
 
-办公邮箱:huo.hm@neusoft.com  （可以投简历、一般不回，可以先加微信咨询）
-
 联系加我入群，与沈阳的IT同行门进行交流！
 
 ![微信好友](./images/weixin_contact.jpg)
