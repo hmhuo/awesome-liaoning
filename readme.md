@@ -30,7 +30,7 @@
 
 ----
 
-[本页面开源中国gitee镜像](https://gitee.com/BaldLeague/Shenyang-IT)
+[本页面开源中国gitee镜像](https://gitee.com/BaldLeague/Shenyang-IT) | gitee镜像由**蒙古海军**维护
 
 ----
 
