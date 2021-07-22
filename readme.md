@@ -26,7 +26,7 @@
 ## 面试经历汇总分享
 [盛京面试通(腾讯文档)](https://docs.qq.com/sheet/DV3piSGFDYXhkcERL?tab=BB08J2&_t=1626881355586)
 
-[盛京面试通markdown镜像](./interview/盛京面试通.md)
+[盛京面试通markdown镜像](./interviews/盛京面试通.md)
 
 ----
 
