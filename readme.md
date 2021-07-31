@@ -36,7 +36,7 @@
 
 [![关于我们·东软集团介绍](https://i1.hdslb.com/bfs/archive/74cd6f9107ff2cf95490f015ba3916cf79a81e66.jpg@320w_200h_1c.webp)](https://www.bilibili.com/video/BV16y4y1r7r9?from=search&seid=10934766587646264218)
 
-    沈阳本地的东软集团有多家子公司，包括东软睿驰、东软医疗、东软熙康等。
+    沈阳本地的东软集团有多家子公司，包括东软睿驰、东软医疗系统、东软熙康等。
 
 ### 华晨宝马
 
