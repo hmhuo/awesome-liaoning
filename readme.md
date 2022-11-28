@@ -24,36 +24,9 @@
 
 ## 沈阳本地IT/互联网公司介绍
 
-### 东软集团
-
-东软集团是中国领先的IT解决方案与服务供应商，是上市企业，股票代码600718。公司成立于1991年，前身为东北大学下属的沈阳东大开发软件系统股份有限公司和沈阳东大阿尔派软件有限公司。
-
-公司开发的各种软件已被广泛运用于工程、电力、电信、房地产、工厂设计等行业，软件的商品化率是国内最高的。东软以软件技术为核心，提供行业解决方案和产品工程解决方案以及相关产品与服务。
-
-[东软集团官网](https://www.neusoft.com/cn/)|[东软集团社招](https://talents.neusoft.com/webdesign/homepage.do?noclear=yes)|[知乎·东软集团招聘](https://www.zhihu.com/search?type=content&q=%E4%B8%9C%E8%BD%AF%E9%9B%86%E5%9B%A2%20%E6%B2%88%E9%98%B3)
-
-#### 东软集团介绍视频
-
-[![关于我们·东软集团介绍](https://i1.hdslb.com/bfs/archive/74cd6f9107ff2cf95490f015ba3916cf79a81e66.jpg@320w_200h_1c.webp)](https://www.bilibili.com/video/BV16y4y1r7r9?from=search&seid=10934766587646264218)
-
-    沈阳本地的东软集团有多家子公司，包括东软睿驰、东软医疗系统、东软熙康等。
-
-### 华晨宝马
-
-[华晨宝马宣传片](https://www.bilibili.com/video/BV1Ko4y117qb)
-
-### 新松机器人
-
-[新松机器人宣传片](https://www.bilibili.com/video/BV1Hv411x7bv)
-
-### 中科院
-
-[中国科学院沈阳自动化研究所宣传片](https://www.bilibili.com/video/BV19Z4y1u7rK)
-
 ----
 
 > :lollipop: 如果你对沈阳互联网公司很熟悉，欢迎提交 `Issue` 或者`Pull Request`，参与项目，公司黑料，招聘信息，招聘接口人等等，期待你的贡献。
-> :phone: 如果对沈阳的东软集团感兴趣，欢迎联系我内推。
 
 微信/QQ :253392172
 
